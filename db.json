@@ -1,16 +1,12 @@
 {
-    "data": [
-        {
-            "profileName": "Tara Sharma",
-            "profilePhoto": "https://i.ibb.co/gRCJ2CC/stock-female-image.jpg",
-            "profileDescription": "I’m web designer, I work in programs like figma, adobe photoshop, adobe illustrator",
-            "dob": "22/06/1975",
-            "educationQualification": "Graduate",
-            "relationshipStatus": "Married",
-            "financialAssistance": "N/A",
-            "email": "tarasharma@gmail.com",
-            "refferalCode": "FFGTRA1245P",
-            "Intrest": "Sports, Fashion, Cooking"
-        }
-    ]
+    "profileName": "Tara Sharma",
+    "profilePhoto": "https://i.ibb.co/gRCJ2CC/stock-female-image.jpg",
+    "profileDescription": "I’m web designer, I work in programs like figma, adobe photoshop, adobe illustrator",
+    "dob": "22/06/1975",
+    "educationQualification": "Graduate",
+    "relationshipStatus": "Married",
+    "financialAssistance": "N/A",
+    "email": "tarasharma@gmail.com",
+    "refferalCode": "FFGTRA1245P",
+    "Intrest": "Sports, Fashion, Cooking"
 }
